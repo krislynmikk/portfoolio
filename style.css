@@ -36,7 +36,7 @@ img {
     text-align: center;
     letter-spacing: 8px;
     border: rgba(184, 135, 11, 0.575);
-    border-style: solid;
+    border-style: double;
     width: auto;
     display: inline-block;
     padding: 10px;
