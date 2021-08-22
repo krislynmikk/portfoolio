@@ -44,7 +44,7 @@ img {
 }
 h4 {
     font-size: 50px;
-    color: lightslategray;
+    color: rgba(0, 0, 0, 0.603);
 }
     
 .galerii a:hover {
